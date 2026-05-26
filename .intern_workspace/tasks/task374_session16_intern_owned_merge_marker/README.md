@@ -1,6 +1,6 @@
 # task374_session16_intern_owned_merge_marker
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_merge_self_16 -->
 
 ## 背景
 
