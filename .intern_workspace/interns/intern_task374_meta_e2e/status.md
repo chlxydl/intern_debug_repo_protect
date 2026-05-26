@@ -7,6 +7,6 @@
 | Name | intern_task374_meta_e2e |
 | Status | Working |
 | Current Task | task374_metadata_branch_intern_merge_marker |
-| PR | N/A |
-| Session | 2 |
-| Recent Progress | Assigned task374_metadata_branch_intern_merge_marker and ready to start implementation. |
+| PR | https://github.com/chlxydl/intern_debug_repo_protect/pull/5 |
+| Session | 1 |
+| Recent Progress | Added the new README intern merge validation marker and opened PR #5. |
