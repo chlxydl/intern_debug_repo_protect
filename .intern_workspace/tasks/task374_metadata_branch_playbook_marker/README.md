@@ -1,6 +1,6 @@
 # task374_metadata_branch_playbook_marker
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_meta_e2e -->
 
 ## 背景
 
