@@ -1,6 +1,6 @@
 # task374_metadata_branch_intern_merge_marker
 
-<!-- METADATA:STATUS=Done,ASSIGNEE=intern_task374_meta_e2e -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_task374_meta_e2e -->
 
 ## 背景
 

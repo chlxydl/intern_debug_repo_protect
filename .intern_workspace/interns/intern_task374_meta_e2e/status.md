@@ -9,4 +9,4 @@
 | Current Task |  |
 | PR | https://github.com/chlxydl/intern_debug_repo_protect/pull/5 |
 | Session | 2 |
-| Recent Progress | PR #5 merged successfully and task metadata closed as Done. |
+| Recent Progress | PR #5 merged successfully and task metadata closed as Completed. |
