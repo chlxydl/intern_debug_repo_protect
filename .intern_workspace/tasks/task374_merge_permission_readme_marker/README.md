@@ -1,6 +1,6 @@
 # task374_merge_permission_readme_marker
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_meta_e2e -->
 
 ## 背景
 
