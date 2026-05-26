@@ -7,5 +7,5 @@
 | Name | intern_task374_merge_self_16 |
 | Status | Working |
 | Current Task | task374_session16_intern_owned_merge_marker |
-| PR | N/A |
-| Session | 0 |
+| PR | https://github.com/chlxydl/intern_debug_repo_protect/pull/8 |
+| Session | 1 |
