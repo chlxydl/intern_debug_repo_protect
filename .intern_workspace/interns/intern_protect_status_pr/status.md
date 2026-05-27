@@ -1,11 +1,11 @@
 # intern_protect_status_pr - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_protect_status_pr -->
+<!-- METADATA:STATUS=Idle,TASK= -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | intern_protect_status_pr |
-| Status | Working |
+| Status | Idle |
 | Current Task | |
 | PR | N/A |
 | Session | 0 |
