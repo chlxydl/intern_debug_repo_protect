@@ -1,6 +1,6 @@
 # task375_metadata_branch_flow_validation
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_fresh_meta -->
 
 ## 背景
 
