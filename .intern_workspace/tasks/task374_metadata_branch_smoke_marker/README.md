@@ -1,6 +1,6 @@
 # task374_metadata_branch_smoke_marker
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_meta_s23 -->
 
 ## 背景
 
