@@ -1,15 +1,16 @@
 # intern_t377_r2_meta - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task377-r2-meta-185012 -->
+<!-- METADATA:STATUS=Idle,TASK= -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | intern_t377_r2_meta |
-| Status | Working |
-| Current Task | task377-r2-meta-185012 |
-| PR | https://github.com/chlxydl/intern_debug_repo_protect/pull/14 |
-| Session | 1 |
+| Status | Idle |
+| Current Task | |
+| PR | N/A |
+| Session | 2 |
 
 ## 最近进展
 
 - 2026-05-27 Session 1: Created follow-up task metadata for `task377-r2-follow-meta-185844`; current task remains `task377-r2-meta-185012` with PR #14 open.
+- 2026-05-27 Session 2: Closed metadata for `task377-r2-meta-185012` before merging PR #14; status returned to Idle.
