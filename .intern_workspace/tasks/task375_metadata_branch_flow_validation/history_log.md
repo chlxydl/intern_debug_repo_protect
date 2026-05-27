@@ -1,6 +1,6 @@
 # task375_metadata_branch_flow_validation - History Log
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## Session 0
 
@@ -19,3 +19,11 @@
 - Confirmed `gh` is available and authenticated.
 - Confirmed no existing PR for branch `intern_fresh_meta/task375_metadata_branch_flow_validation`.
 - Created PR https://github.com/chlxydl/intern_debug_repo_protect/pull/11 targeting `master`.
+
+## Session 3
+
+- Received supervisor approval to merge PR #11.
+- Confirmed PR #11 was mergeable and had no status check failures.
+- Squash merged PR https://github.com/chlxydl/intern_debug_repo_protect/pull/11 into `master`.
+- Verified merge commit `3ba405d` on `master` contains `metadata_branch flow validated by intern_fresh_meta` in `README.md`.
+- Marked the task completed and returned intern status to Idle.
