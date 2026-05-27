@@ -13,4 +13,4 @@
 ## 最近进展
 
 - 2026-05-27 Session 1: Created follow-up task metadata for `task377-r2-follow-meta-185844`; current task remains `task377-r2-meta-185012` with PR #14 open.
-- 2026-05-27 Session 2: Closed metadata for `task377-r2-meta-185012` before merging PR #14; status returned to Idle.
+- 2026-05-27 Session 2: Closed metadata for `task377-r2-meta-185012`, merged PR #14, and returned status to Idle.
