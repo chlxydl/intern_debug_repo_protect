@@ -7,6 +7,6 @@
 | Name | intern_t374_meta |
 | Status | Idle |
 | Current Task | |
-| PR | https://github.com/chlxydl/intern_debug_repo_protect/pull/12 |
+| PR | N/A |
 | Session | 2 |
 | Recent Progress | PR #12 已 squash merge，README.md 已在 master 包含 `task374 metadata_branch validation`。 |
