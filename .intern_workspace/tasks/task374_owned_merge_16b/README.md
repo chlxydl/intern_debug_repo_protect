@@ -1,6 +1,6 @@
 # task374_owned_merge_16b
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_owned_merge_16b -->
 
 ## 背景
 
