@@ -1,6 +1,6 @@
 # task374_metadata_branch_validation - Task Knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## Knowledge Entries
 
