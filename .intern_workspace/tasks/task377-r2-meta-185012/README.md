@@ -1,6 +1,6 @@
 # task377-r2-meta-185012
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t377_r2_meta -->
 
 ## 背景
 
