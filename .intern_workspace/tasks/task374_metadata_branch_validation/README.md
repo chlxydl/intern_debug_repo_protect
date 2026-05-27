@@ -1,6 +1,6 @@
 # task374_metadata_branch_validation
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t374_meta -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t374_meta -->
 
 ## 背景
 
