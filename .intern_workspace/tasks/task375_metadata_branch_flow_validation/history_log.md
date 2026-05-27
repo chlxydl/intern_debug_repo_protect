@@ -1,6 +1,6 @@
 # task375_metadata_branch_flow_validation - History Log
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Session 0
 
@@ -13,3 +13,9 @@
 - Verified the required line is present with `rg -n "^metadata_branch flow validated by intern_fresh_meta$" README.md`.
 - Committed the code change as `47ce148` and pushed the branch to origin.
 - PR creation is blocked in this environment because `gh` is not installed, `hub` is unavailable, and no GitHub API token is present.
+
+## Session 2
+
+- Confirmed `gh` is available and authenticated.
+- Confirmed no existing PR for branch `intern_fresh_meta/task375_metadata_branch_flow_validation`.
+- Created PR https://github.com/chlxydl/intern_debug_repo_protect/pull/11 targeting `master`.
