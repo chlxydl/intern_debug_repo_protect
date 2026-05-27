@@ -1,6 +1,6 @@
 # task374_metadata_branch_smoke_marker
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_meta_s23 -->
+<!-- METADATA:STATUS=Done,ASSIGNEE=intern_task374_meta_s23 -->
 
 ## 背景
 
