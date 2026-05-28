@@ -1,6 +1,6 @@
 # task377-r2-follow-meta-185844
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE= -->
 
 ## 背景
 

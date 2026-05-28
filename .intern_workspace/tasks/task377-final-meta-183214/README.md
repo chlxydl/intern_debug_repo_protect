@@ -1,6 +1,6 @@
 # task377-final-meta-183214
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t377_final_meta -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t377_final_meta -->
 
 ## 背景
 
