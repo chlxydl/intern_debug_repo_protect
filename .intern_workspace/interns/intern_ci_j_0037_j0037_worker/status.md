@@ -10,4 +10,4 @@
 | Team | N/A |
 | Current Task |  |
 | PR | N/A |
-| Session | 2 |
+| Session | 0 |
