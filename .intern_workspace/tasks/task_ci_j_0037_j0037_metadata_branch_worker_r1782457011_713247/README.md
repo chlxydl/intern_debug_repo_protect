@@ -1,6 +1,6 @@
 # task_ci_j_0037_j0037_metadata_branch_worker_r1782457011_713247
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_ci_j_0037_j0037_worker -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_ci_j_0037_j0037_worker -->
 
 ## Goal
 Create `ci_j_0037_worker_artifacts/metadata_branch_worker_note.md` with marker `WORKER-METADATA-BRANCH-J0037-r1782457011_713247`.
