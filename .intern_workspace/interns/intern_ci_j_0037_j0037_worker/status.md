@@ -9,6 +9,6 @@
 | Role | worker |
 | Team | N/A |
 | Current Task | task_ci_j_0037_j0037_metadata_branch_worker_r1782836846_232282 |
-| PR | N/A |
-| Session | 1 |
-| 最近进展 | 收到 smoke 指令，仅需回复指定字符串；已记录 Session 1 metadata 更新。 |
+| PR | Blocked: GitHub PR creation auth unavailable |
+| Session | 2 |
+| 最近进展 | 已在任务分支提交并推送 artifact marker，验证通过；真实 GitHub PR 创建受阻，原因是缺少可用 PR 创建 CLI/token。 |
