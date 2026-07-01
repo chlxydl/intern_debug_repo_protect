@@ -1,6 +1,6 @@
 # task_ci_j_0037_j0037_metadata_branch_worker_r1782891710_935751
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_ci_j_0037_j0037_worker -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_ci_j_0037_j0037_worker -->
 
 ## Goal
 Create `ci_j_0037_worker_artifacts/metadata_branch_worker_note.md` with marker `WORKER-METADATA-BRANCH-J0037-r1782891710_935751`.
@@ -23,8 +23,8 @@ Do not run package, deploy, bootstrap, VSIX install, hook install, relay restart
 ## Evidence
 Report the changed file, marker, and validation command result.
 
-## Current Status
-- Branch: `intern_ci_j_0037_j0037_worker/task_ci_j_0037_j0037_metadata_branch_worker_r1782891710_935751`
+## Closeout
 - Commit: `6a0c168`
-- Validation passed: `test -f ci_j_0037_worker_artifacts/metadata_branch_worker_note.md && rg 'WORKER-METADATA-BRANCH-J0037-r1782891710_935751' ci_j_0037_worker_artifacts/metadata_branch_worker_note.md`
-- PR creation blocked: `gh` and `hub` are unavailable, `GH_TOKEN`/`GITHUB_TOKEN`/`GIT_TOKEN` are unset, and no GitHub HTTPS credential is present.
+- Merged to `master`: fast-forwarded and pushed after explicit supervisor merge approval.
+- Validation passed after merge: `test -f ci_j_0037_worker_artifacts/metadata_branch_worker_note.md && rg 'WORKER-METADATA-BRANCH-J0037-r1782891710_935751' ci_j_0037_worker_artifacts/metadata_branch_worker_note.md`
+- Output: `WORKER-METADATA-BRANCH-J0037-r1782891710_935751`
