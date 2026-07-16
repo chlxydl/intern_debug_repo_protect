@@ -1,0 +1,18 @@
+{
+  "kind": "workspace",
+  "version": 1,
+  "schema": "intern-agents.workspace.v1",
+  "workspace_id": "ws_ci_j_0037_github_metadata_r1784241583_28278_1ed94d88",
+  "workspace_key": "ws_ci_j_0037_github_metadata_r1784241583_28278_1ed94d88",
+  "display_name": "ci_j_0037_github-metadata_r1784241583_28278",
+  "provider": "github",
+  "repo_url": "git@github.com:chlxydl/intern_debug_repo_protect.git",
+  "local_path": "/root/axis_personal_ci/ci-artifacts/J_0037_metadata_branch_worker_continuation_journey/repo_j0037_github_metadata",
+  "metadata_mode": "metadata_branch",
+  "metadata_branch": "intern_workspace",
+  "metadata_cache_path": "/root/axis_personal_ci/state/v1/ws_ci_j_0037_github_metadata_r1784241583_28278_1ed94d88/metadata/branch",
+  "workspace_authority": "local",
+  "local_enabled": true,
+  "repo_root": "/root/axis_personal_ci/ci-artifacts/J_0037_metadata_branch_worker_continuation_journey/repo_j0037_github_metadata",
+  "metadata_path": "/root/axis_personal_ci/state/v1/ws_ci_j_0037_github_metadata_r1784241583_28278_1ed94d88/metadata/branch/.intern_workspace"
+}
