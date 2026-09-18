@@ -1,0 +1,76 @@
+{
+  "kind": "workspace",
+  "version": 2,
+  "schema": "beehive.workspace.v2",
+  "workspace_alias": "ci_f0004_d89c140f7764",
+  "display_name": "CI F0004 20260919_000922_81ff3708_d583c21c14",
+  "provider": "github",
+  "provider_binding": {
+    "provider": "github",
+    "workspace_alias": "ci_f0004_d89c140f7764",
+    "repo_root": "/var/lib/beehive-ci/state/state/v1/ci_f0004_d89c140f7764/source",
+    "remote_name": "remote-0",
+    "remote_url": "git@github.com:chlxydl/intern_debug_repo_protect.git",
+    "binding_ref": "github:chlxydl/intern_debug_repo_protect",
+    "identity_digest": "sha256:6436cf19fd6d21204f98949f55c74701406a758fa3df53f4ecf25aaa4d8f94e2",
+    "identity": {
+      "slug": "chlxydl/intern_debug_repo_protect"
+    },
+    "status": "bound",
+    "generation": 1
+  },
+  "provider_injection": {
+    "terminology": {
+      "change_request": "PR",
+      "merge": "merge"
+    },
+    "create_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "create",
+        "--head",
+        "{source_branch}"
+      ]
+    },
+    "view_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "view",
+        "{request_id}"
+      ]
+    },
+    "merge_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "merge",
+        "{request_id}",
+        "--squash"
+      ]
+    },
+    "close_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "close",
+        "{request_id}"
+      ]
+    },
+    "error_guidance": []
+  },
+  "repo_url": "git@github.com:chlxydl/intern_debug_repo_protect.git",
+  "source_kind": "remote",
+  "source_address": "git@github.com:chlxydl/intern_debug_repo_protect.git",
+  "local_path": "/var/lib/beehive-ci/state/state/v1/ci_f0004_d89c140f7764/source",
+  "metadata_mode": "metadata_branch",
+  "metadata_branch": "worker_workspace",
+  "metadata_cache_path": "/var/lib/beehive-ci/state/state/v1/ci_f0004_d89c140f7764/source",
+  "workspace_authority": "local",
+  "user_visible": true,
+  "local_enabled": true,
+  "generation": 1,
+  "repo_root": "/var/lib/beehive-ci/state/state/v1/ci_f0004_d89c140f7764/source",
+  "metadata_path": "/var/lib/beehive-ci/state/state/v1/ci_f0004_d89c140f7764/source/.beehive_workspace"
+}
